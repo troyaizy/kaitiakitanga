@@ -1,0 +1,52 @@
+1. Earthy Neutrals
+Warm Beige: rgb(210, 180, 140) /* tan/light brown */
+
+Soft Taupe: rgb(150, 130, 110)
+
+Creamy White: rgb(245, 245, 220)
+
+Terracotta: rgb(204, 78, 54)
+
+
+
+2. Soft Pastels
+Blush Pink: rgb(255, 192, 203)
+
+Dusty Rose: rgb(201, 134, 134)
+
+Pale Peach: rgb(255, 218, 185)
+
+Light Lavender: rgb(230, 230, 250)
+
+
+
+3. Rich Jewel Tones
+Deep Navy Blue: rgb(0, 32, 63)
+
+Burgundy: rgb(128, 0, 32)
+
+Mustard Yellow: rgb(255, 219, 88)
+
+Burnt Orange: rgb(204, 85, 0)
+
+
+
+4. Cool Blues & Teals
+Soft Sky Blue: rgb(135, 206, 235)
+
+Teal: rgb(0, 128, 128)
+
+Turquoise: rgb(64, 224, 208)
+
+Slate Gray: rgb(112, 128, 144)
+
+
+
+5. Bright Accents
+Vibrant Coral: rgb(255, 64, 64)
+
+Sunny Yellow: rgb(255, 223, 0)
+
+Crisp White: rgb(255, 255, 255)
+
+Cobalt Blue: rgb(0, 71, 171)
