@@ -35,3 +35,7 @@ a {
     height: auto;
     display: block;
 }
+
+nav {
+    text-align: right;
+}
