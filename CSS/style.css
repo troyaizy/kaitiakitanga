@@ -17,11 +17,11 @@ body {
     margin: 0%;
     padding: 0%;
     overflow-x: hidden;
+    color: white;
 }
 
 .title {
     background-color: #78a064;
-    color: white;
     text-align: center;
     font-size: 150px;
     line-height: normal;
@@ -45,8 +45,12 @@ nav {
 }
 
 img {
-    width: auto;
-    height: auto;
-    display: block;
+    width: 100%;
     margin: 20px 40px 20px 40px;
+}
+
+.kiwi_banner {
+    width: 1000px;
+    padding: 30px;
+    margin: auto;
 }
