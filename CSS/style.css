@@ -9,8 +9,13 @@ header {
 
 .name {
     padding-left: 20px;
-    margin-left: 20px;
+    margin-left: 10px;
     font-weight: bold;
+}
+
+.logo, .name {
+    display: inline-block;
+    vertical-align: middle;
 }
 
 body {
@@ -57,12 +62,14 @@ nav a {
 }
 
 .featured {
-    width: 100%;
+    display: block;
+    height: auto;
+    width: 1200px;
     margin: 20px 40px 20px 40px;
 }
 
-.kiwi_banner {
-    width: 900px;
+.kiwi-banner {
+    width: 1200px;
     padding: 30px;
     margin: auto;
     text-align: center;
