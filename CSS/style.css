@@ -2,9 +2,14 @@
 
 header {
     width: 100%;
-    background-color: #4f7942;
+    background-color: #3f6235;
     padding: 20px;
     color: white;
+}
+
+.name {
+    padding-left: 20px;
+    margin-left: 20px;
 }
 
 body {
@@ -47,6 +52,7 @@ nav {
 
 nav a {
     margin-right: 30px;
+    display: inline-block;
 }
 
 .featured {
@@ -55,7 +61,7 @@ nav a {
 }
 
 .kiwi_banner {
-    width: 1000px;
+    width: 900px;
     padding: 30px;
     margin: auto;
     text-align: center;
