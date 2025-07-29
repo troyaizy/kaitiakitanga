@@ -64,12 +64,13 @@ nav a {
 .featured {
     display: block;
     height: auto;
-    width: 1200px;
+    width: 1600px;
     margin: 20px 40px 20px 40px;
+    padding-right: 40px;
 }
 
 .kiwi-banner {
-    width: 1200px;
+    width: 1600px;
     padding: 30px;
     margin: auto;
     text-align: center;
