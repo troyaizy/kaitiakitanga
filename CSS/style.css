@@ -61,17 +61,18 @@ nav a {
     display: inline-block;
 }
 
-.featured {
-    display: block;
-    height: auto;
-    width: 1600px;
-    margin: 20px 40px 20px 40px;
-    padding-right: 40px;
+.kiwi-banner {
+    width: 100%;
+    max-width: 1600px;
+    margin: 20px auto;
+    padding: 0 40px;
+    text-align: center;
 }
 
-.kiwi-banner {
-    width: 1600px;
-    padding: 30px;
-    margin: auto;
-    text-align: center;
+.kiwi-banner img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid whitesmoke;
 }
