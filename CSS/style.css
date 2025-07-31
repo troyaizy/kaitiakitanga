@@ -87,3 +87,17 @@ nav a {
     margin: 0 auto;
     border: 5px solid whitesmoke;
 }
+
+.main-heading {
+    font-size: 30px;
+    text-align: left;
+    padding: 10px;
+    width: 15%;
+    border: 5px solid whitesmoke;
+    display: block;
+    background-color: #333333;
+}
+
+.yap {
+    text-align: center;
+}
