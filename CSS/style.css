@@ -1,7 +1,9 @@
+/*Import font from google, it's the Roboto font*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+/*the asterisk selects evry element on the page*/
 * {
-    box-sizing: border-box;
+    box-sizing: border-box; /*this makes sure that the padding and borders are included in the elments width and height*/
 }
 
 header {
