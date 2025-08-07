@@ -88,17 +88,12 @@ nav a {
     border: 5px solid whitesmoke;
 }
 
-.main-heading {
+.yap {
     font-size: 30px;
     text-align: left;
     padding: 10px;
-    max-width: 15%;
+    max-width: 100%;
     border: 5px solid whitesmoke;
     display: block;
     background-color: #333333;
-}
-
-.yap {
-    text-align: left;
-    margin-left: 20px;
 }
